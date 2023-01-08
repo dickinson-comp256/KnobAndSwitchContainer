@@ -1,2 +1,2 @@
 # KnobAndSwitchContainer
-Container for working wit the Knob and Switch Computer
+Container for working with the Knob and Switch Computer
